@@ -7,4 +7,6 @@ School project that simulates the software of a vending machine. Includes user f
 No terminal:
 
 gcc main.c vending.c -o vending.exe
+
 ./vending.exe
+
